@@ -21,7 +21,7 @@ This project for Challange build android app. The name of application is Image M
 
 You can see the challange in [Android Challange](https://github.com/do4Mother/flutter-image-machine/raw/master/Prospace_Android_Code_Challenge.docx)
 
-Sorry for sort list feature and some feature not found in this app like change image.
+Sorry for sorting or filter list feature and some feature not found in this app like change image.
 
 For qr code you can generate from (https://www.the-qrcode-generator.com)
 
